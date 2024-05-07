@@ -1,5 +1,8 @@
 # weatherAppWithBloc
-HavaDurumu  provides real-time weather information for the user's current location or a specified location. Basic weather features such as temperature, humidity, wind speed, and direction are easily accessible
+
+WeatherApp  is a user-friendly weather application designed to assist you in planning your daily life. Developed using the OpenWeatherMap API and designed with Flutter and Bloc architecture.
+weatherApp  provides real-time weather information for the user's current location or a specified location. Basic weather features such as temperature, humidity, wind speed, and direction are easily accessible.
+
 
 
 
